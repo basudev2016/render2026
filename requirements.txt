@@ -1,8 +1,8 @@
-streamlit==1.55.0
+streamlit==1.41.0
 scikit-learn==1.6.1
-pandas==2.3.3
+pandas==2.2.3
 seaborn==0.13.2
-numpy==2.4.2
-joblib==1.5.3
-python-dotenv==1.2.2
-xgboost==3.2.0
+numpy==2.2.1
+joblib==1.4.2
+python-dotenv==1.0.1
+xgboost==2.1.3
